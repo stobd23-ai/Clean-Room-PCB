@@ -17,14 +17,14 @@ Redesigned and implemented the hardware architecture of an ESP32-based clean roo
 
 - **Frameworks/Libraries:**
 
-ESP32 HardwareSerial — Serial communication with the PMS5003 particle sensor
-WiFi — ESP32 Wi-Fi connectivity
-Blynk — IoT connectivity, remote monitoring, and notifications
-DHT sensor library — Interface with the DHT22 temperature and humidity sensor
-Wire — I²C communication for the oxygen sensor
-LiquidCrystal — Control of the RG2004A parallel LCD
-SPI — SPI communication for the SD card
-SD — SD card data logging
+    ESP32 HardwareSerial — Serial communication with the PMS5003 particle sensor
+    WiFi — ESP32 Wi-Fi connectivity
+    Blynk — IoT connectivity, remote monitoring, and notifications
+    DHT sensor library — Interface with the DHT22 temperature and humidity sensor
+    Wire — I²C communication for the oxygen sensor
+    LiquidCrystal — Control of the RG2004A parallel LCD
+    SPI — SPI communication for the SD card
+    SD — SD card data logging
 
 - **Database/Tools:** Fusion360, Arduino, VSCode extension
 
