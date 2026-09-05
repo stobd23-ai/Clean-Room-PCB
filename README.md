@@ -1,4 +1,4 @@
-# Clean-Room-PCB - Clean Room Monitoring System Redesign
+# Clean Room Monitoring System Redesign
 Redesigned and implemented the hardware architecture of an ESP32-based clean room monitoring system, developing the schematic and custom PCB in Fusion 360 Electronics. Integrated sensor interfaces, power management, USB-to-UART programming, data logging, and IoT connectivity. Debugged and optimised the embedded firmware and implemented remote monitoring and notification functionality.
 
 ## Features
